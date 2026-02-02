@@ -1,0 +1,20 @@
+BEGIN:VCARD
+
+VERSION:3.0
+
+PRODID:-//Apple Inc.//iPhone OS 26.2.1//EN
+
+N:Echenique;Jose Antonio;;;
+
+FN:Jose Antonio Echenique
+
+EMAIL;type=INTERNET;type=pref:jaechenique@txmexico.com
+
+EMAIL;type=INTERNET:jaechenique@grupotx.com
+
+TEL;type=HOME;type=VOICE;type=pref:+1 (832) 302-9242
+
+TEL;type=CELL;type=VOICE:+52 81 1080 8488
+
+END:VCARD
+
